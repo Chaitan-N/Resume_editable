@@ -53,16 +53,16 @@ export const protfolioPosts: readonly SocialPost[] = [
     </p>`,
     link: "https://github.com/m4thieulavoie/webcomponents-starter",
   },
-  {
-    type: "contribution",
-    name: "axe-browser-reporter",
-    image: "https://www.deque.com/wp-content/uploads/2016/12/aXe-300x280.png",
-    text: html`<p class="status">
-      Intrusive in-browser Axe reporter that lets you know as soon as you made
-      an Accessibility error.
-    </p>`,
-    link: "https://github.com/m4thieulavoie/axe-browser-reporter",
-  },
+  // {
+  //   type: "contribution",
+  //   name: "axe-browser-reporter",
+  //   image: "https://www.deque.com/wp-content/uploads/2016/12/aXe-300x280.png",
+  //   text: html`<p class="status">
+  //     Intrusive in-browser Axe reporter that lets you know as soon as you made
+  //     an Accessibility error.
+  //   </p>`,
+  //   link: "https://github.com/m4thieulavoie/axe-browser-reporter",
+  // },
   {
     type: "project",
     name: "sass-to-string",
